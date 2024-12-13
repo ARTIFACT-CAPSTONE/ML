@@ -1,4 +1,4 @@
-# ArtiFact Backend and Machine Learning Model
+# ArtiFact Machine Learning Model
 
 ## AI Image Prediction using Convolutional Neural Network (CNN)
 ### Description
